@@ -29,6 +29,7 @@ Useful mailing lists for GridPP work
 ## VOs
 
  atlas-support-cloud-uk@cern.ch
+ DUNE-UK-COMP@JISCMAIL.AC.UK
  
 
 ## Security

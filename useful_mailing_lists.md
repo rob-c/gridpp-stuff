@@ -21,9 +21,12 @@ Useful mailing lists for GridPP work
  LCG-ROLLOUT@JISCMAIL.AC.UK
  HI-PHI-L@JISCMAIL.AC.UK
 
+
 ## GridPP new VOs/suport
- LUSC-GRIDPP@JISCMAIL.AC.UK
+
+LUSC-GRIDPP@JISCMAIL.AC.UK
  GRIDPP-SUPPORT@JISCMAIL.AC.UK
+
 
 ## Scotgrid
 
@@ -46,7 +49,7 @@ Useful mailing lists for GridPP work
 
  GRIDPP-STORAGE@JISCMAIL.AC.UK
  dpm-users-forum@cern.ch
- zfs-discuss@list.zfsonlinux.org
+
 
 ## IRIS
 
@@ -54,3 +57,6 @@ Useful mailing lists for GridPP work
  IRIS-TWG@JISCMAIL.AC.UK
  STFC-MSDC@JISCMAIL.AC.UK
 
+
+## ZFS 
+ zfs-discuss@list.zfsonlinux.org
